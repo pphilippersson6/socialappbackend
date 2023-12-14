@@ -1,11 +1,15 @@
-# installation
+## installation
 
 Clone the repository
+
 Navigate to the project directory
+
 Install Python dependencies using pip
   pip install -r requirements.txt
+
 Apply database migrations
   python manage.py migrate
+  
 Start the Django development server
   python manage.py runserver
 
