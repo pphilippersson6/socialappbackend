@@ -1,4 +1,5 @@
-#installation
+# installation
+
 Clone the repository
 Navigate to the project directory
 Install Python dependencies using pip
